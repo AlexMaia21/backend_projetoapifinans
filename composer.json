@@ -1,0 +1,19 @@
+{
+    "name": "alexmaia/finans",
+    "description": "finans project back end",
+    "autoload": {
+        "psr-4": {
+            "source\\": "source/",
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Maia"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.2",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
