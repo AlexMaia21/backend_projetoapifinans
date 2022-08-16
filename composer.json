@@ -1,6 +1,7 @@
 {
     "name": "alexmaia/finans",
     "description": "finans project back end",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "source\\": "source/",
