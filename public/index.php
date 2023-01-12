@@ -2,7 +2,6 @@
 
 require '../vendor/autoload.php';
 
-use source\Config;
 use core\Response;
 
 // ENVIROMENT VARIABLES
