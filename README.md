@@ -3,7 +3,7 @@
 * [Autor](#Autor)
 * [Tecnologias](#Tecnologias)
 
-##Sobre
+## Sobre
 <p>Finans é um Dashboard financeiro feito com Vue Js onde se pode incluir receitas e despesas e obter gráficos através de dados obtidos de um Back-end feito em PHP e MYSQL.</p>
 
 ## Autor
